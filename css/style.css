@@ -617,9 +617,10 @@ header .circle {
   cursor: pointer;
 }
 
+
 .gallery-image img {
   position: absolute;
-  height: 115%;
+  height: 300;
   width: initial;
   top: 50%;
   left: 50%;
@@ -689,6 +690,10 @@ header .circle {
 
 .gallery-image:hover img {
   transform: translate(-50%, -50%) scale(1.1);
+}
+
+.round{
+  border-radius: 10px;
 }
 
 .more-folio {
