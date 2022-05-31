@@ -61,7 +61,12 @@ img {
   align-items: center;
   justify-content: center;
 }
-
+.text-theme{
+  color: var(--main-color);
+}
+.bg-theme{
+  background-color: var(--main-color);
+}
 .text {
   font-size: 1.25rem;
   color: var(--dark-two);
