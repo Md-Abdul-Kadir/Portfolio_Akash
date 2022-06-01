@@ -1195,6 +1195,9 @@ header .circle {
 .contact-input .btn {
   margin-top: 0.6rem;
 }
+.mminus{
+  margin-left: -10px;
+}
 
 /* End Contact */
 
@@ -2207,6 +2210,10 @@ header .circle {
     padding: 0.8rem 1.4rem;
     margin: 0.25rem 0;
   }
+
+
+ 
+   
 }
 
 /* End Responsive */
