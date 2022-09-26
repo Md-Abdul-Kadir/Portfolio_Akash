@@ -1376,6 +1376,16 @@ header .circle {
   background-color: #6b44e0;
 }
 
+.theme-color{
+  color: #6b44e0;
+}
+.theme-color-bg{
+  background-color: #6b44e0;
+}
+.theme-color-bg2{
+  background-color: #021960;
+}
+
 .back-btn-wrap:before {
   content: "";
   position: absolute;
