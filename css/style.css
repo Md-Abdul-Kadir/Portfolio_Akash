@@ -1159,7 +1159,7 @@ header .circle {
   width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-  grid-column-gap: 0.6rem;
+  grid-column-gap: 0.9rem;
 }
 
 .contact-input {
@@ -1299,7 +1299,7 @@ header .circle {
 
 .bottom-footer {
   margin-top: 5.5rem;
-  padding: 0 1.7rem;
+  padding: 0 0rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -2212,7 +2212,7 @@ header .circle {
   }
 
   .contact-form .row {
-    grid-column-gap: 0.3rem;
+    grid-column-gap: 0.05rem;
   }
 
   .contact-input {
